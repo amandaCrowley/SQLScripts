@@ -1,3 +1,5 @@
+--INFT3007 Amanda Crowley 29/04/17
+
 --USE OfficeWizard
 --Before passing the table variables to the stored procedure, first we need to create a user defined table types
 USE OfficeWizard;
