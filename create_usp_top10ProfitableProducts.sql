@@ -1,3 +1,5 @@
+--INFT3007 Amanda Crowley 29/04/17
+
 -- N.B. Use this script prior running the test_usp_top10ProfitableProducts script
 USE OfficeWizard
 GO
