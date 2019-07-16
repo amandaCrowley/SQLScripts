@@ -1,3 +1,4 @@
+--INFT3007 Amanda Crowley 29/04/17
 
 --TEST SCRIPT TO CREATE PAYROLL
 --Make sure you have created the stored procedure - usp_createPayroll - first
