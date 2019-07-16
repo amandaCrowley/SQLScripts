@@ -1,3 +1,5 @@
+--INFT3007 Amanda Crowley 29/04/17
+
 -- Test script for create store customer order
 --Ensure you have created usp_createStoreCustomerOrder first
 
