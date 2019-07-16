@@ -1,3 +1,5 @@
+--INFT3007 Amanda Crowley 29/04/17
+
 --Create a store customer order
 USE OfficeWizard;
 
